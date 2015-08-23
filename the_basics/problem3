@@ -1,0 +1,13 @@
+movies = {
+  title1: '1975',
+  title2: '2004',
+  title3: '2013',
+  title4: '2001',
+  title5: '1981'
+  }
+
+puts movies[:title1]
+puts movies[:title2]
+puts movies[:title3]
+puts movies[:title4]
+puts movies[:title5]
