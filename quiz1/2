@@ -1,0 +1,10 @@
+! is bang, it is a permanent action
+? is a boolean True/False
+
+1. != means not equal to,
+you would use when comparing things
+2.turns it to the opposite of their boolean equivalent
+3. Makes the method permanent
+4. Asks the Yes/No
+5. decides when true
+6. !! turns any object into their boolean equivalent
